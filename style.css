@@ -1,0 +1,60 @@
+ body
+    {
+
+	background-image: url("image8.jpeg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position:cover;
+        color: red;        
+     }
+
+  #pqr
+    {
+       margin: 10px auto;
+       width:60%;
+       background-color: white;
+       opacity: 0.5;
+     }
+
+  #abc
+     {
+       text-align:center;
+     }
+
+  .xyz
+     {
+        text-align:left;
+     }
+   h2
+     {
+         color: black;
+         font-weight: bold;
+         font-size: 18px;
+         padding: 18px;
+
+     }
+
+   th
+     {
+        color: black;
+        border: 1px solid black;
+        text-transform: uppercase;
+
+      }
+
+  tr td
+      {
+        border: 1px solid black;
+        color: black;
+        text-align: center;
+       }
+
+  table
+       {
+         width: 80%;
+         height: 80px;
+         margin: 10px 22px 10px 55px;
+         horizontal-align: center;
+         background-color: silver; 
+         border: 2.5px solid purple;
+       }
